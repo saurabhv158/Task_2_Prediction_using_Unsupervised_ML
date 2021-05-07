@@ -14,3 +14,4 @@ clustering can be considered the most important unsuoervised learning technique;
 ### K-Means
 K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid.
 ![image](https://user-images.githubusercontent.com/68296042/117393410-b9b6c580-af11-11eb-9d45-a41f917ea814.png)
+## Author - Saurabh Verma
