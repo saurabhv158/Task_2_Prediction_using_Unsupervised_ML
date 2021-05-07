@@ -1,2 +1,8 @@
 # Task_2_Prediction_using_Unsupervised_ML
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.  Author - Saurabh Verma Unsupervised The class labels of traing data is unknown.Given a set of measurement,observation , etc. with thw aim of establishing the existence of classes or clusters in the data.  Clustering clustering can be considered the most important unsuoervised learning technique; so, as every other problem of this kind , it deals with finding a structure in a collection of unlabeled data.  K-Means K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid.  image.png
+## OBJECTIVE
+
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+## ALGORITHM 
+
+K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid.
